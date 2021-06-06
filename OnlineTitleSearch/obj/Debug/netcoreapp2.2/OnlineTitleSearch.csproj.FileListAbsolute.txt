@@ -1,0 +1,14 @@
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\bin\Debug\netcoreapp2.2\OnlineTitleSearch.deps.json
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\bin\Debug\netcoreapp2.2\OnlineTitleSearch.runtimeconfig.json
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\bin\Debug\netcoreapp2.2\OnlineTitleSearch.runtimeconfig.dev.json
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\bin\Debug\netcoreapp2.2\OnlineTitleSearch.dll
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.csproj.CoreCompileInputs.cache
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.RazorAssemblyInfo.cache
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.RazorAssemblyInfo.cs
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.AssemblyInfoInputs.cache
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.AssemblyInfo.cs
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.RazorTargetAssemblyInfo.cache
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\bin\Debug\netcoreapp2.2\OnlineTitleSearch.pdb
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.dll
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.pdb
+c:\users\sethi\source\repos\OnlineTitleSearch\OnlineTitleSearch\obj\Debug\netcoreapp2.2\OnlineTitleSearch.csprojAssemblyReference.cache
