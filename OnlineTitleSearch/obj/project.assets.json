@@ -12315,6 +12315,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
+      "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Swashbuckle.AspNetCore >= 6.1.4"
@@ -12327,11 +12328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\sethi\\source\\repos\\OnlineTitleSearch\\OnlineTitleSearch\\OnlineTitleSearch.csproj",
+      "projectUniqueName": "C:\\Amita\\OnlineTitleSearch\\OnlineTitleSearch\\OnlineTitleSearch.csproj",
       "projectName": "OnlineTitleSearch",
-      "projectPath": "c:\\users\\sethi\\source\\repos\\OnlineTitleSearch\\OnlineTitleSearch\\OnlineTitleSearch.csproj",
+      "projectPath": "C:\\Amita\\OnlineTitleSearch\\OnlineTitleSearch\\OnlineTitleSearch.csproj",
       "packagesPath": "C:\\Users\\sethi\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\sethi\\source\\repos\\OnlineTitleSearch\\OnlineTitleSearch\\obj\\",
+      "outputPath": "C:\\Amita\\OnlineTitleSearch\\OnlineTitleSearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12366,6 +12367,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Cors": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",

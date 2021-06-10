@@ -1,0 +1,17 @@
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\obj\Debug\netcoreapp2.2\OnlineTitleSearchTest.csprojAssemblyReference.cache
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\obj\Debug\netcoreapp2.2\OnlineTitleSearchTest.csproj.CoreCompileInputs.cache
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\obj\Debug\netcoreapp2.2\OnlineTitleSearchTest.AssemblyInfoInputs.cache
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\obj\Debug\netcoreapp2.2\OnlineTitleSearchTest.AssemblyInfo.cs
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netstandard15.dll
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netstandard15.dll
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\OnlineTitleSearchTest.deps.json
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\OnlineTitleSearchTest.runtimeconfig.json
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\OnlineTitleSearchTest.runtimeconfig.dev.json
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\OnlineTitleSearchTest.dll
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\OnlineTitleSearchTest.pdb
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\OnlineTitleSearch.dll
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\bin\Debug\netcoreapp2.2\OnlineTitleSearch.pdb
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\obj\Debug\netcoreapp2.2\OnlineTitleSearchTest.csproj.CopyComplete
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\obj\Debug\netcoreapp2.2\OnlineTitleSearchTest.dll
+C:\Amita\OnlineTitleSearch\OnlineTitleSearchTest\obj\Debug\netcoreapp2.2\OnlineTitleSearchTest.pdb

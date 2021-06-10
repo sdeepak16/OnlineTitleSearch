@@ -26,8 +26,8 @@ namespace OnlineTitleSearch
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddTransient<ISearchRepository, SearchRepository>();
+            services.AddCors();
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);            
             services.AddTransient<ISearchService, SearchService>();    
 
             services.AddSwaggerGen(c =>
@@ -45,6 +45,7 @@ namespace OnlineTitleSearch
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors(options => options.WithOrigins("*").AllowAnyMethod());
             app.UseMvc();
 
             app.UseSwagger();

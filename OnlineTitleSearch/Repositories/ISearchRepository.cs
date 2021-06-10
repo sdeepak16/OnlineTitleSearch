@@ -7,6 +7,6 @@ namespace OnlineTitleSearch.Repositories
 {
     public interface ISearchRepository
     {
-        Task<string> GetSearchPageText(string searchURL);
+        Task<List<string>> GetSearchPages(string searchURL);
     }
 }
